@@ -48,6 +48,8 @@ Imagine managing 500+ VMs in a company where you need to regularly report node m
 - Instance type: `t2.medium`
 - Security group with ports `22` and `587` open
 
+
+
 ### 2. Create Target Servers
 
 - Create multiple EC2 instances (e.g., 10 VMs) tagged with `environment: dev`
