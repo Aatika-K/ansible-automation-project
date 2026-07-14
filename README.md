@@ -92,6 +92,7 @@ Make sure both ports are open in your EC2 Security Group.
 
 ## Project Structure
 
+```
 vm-monitor/
 │
 ├── ansible.cfg
@@ -107,6 +108,7 @@ vm-monitor/
 │   └── playbook.yaml
 ├── tag.sh
 └── copy_public_key.sh
+```
 
 ### File Descriptions
 
