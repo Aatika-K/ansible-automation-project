@@ -88,6 +88,7 @@ The final email report includes:
 | 587  | SMTP for sending email |
 
 Make sure both ports are open in your EC2 Security Group.
+
 ---
 
 ## Project Structure
@@ -290,8 +291,6 @@ ansible-inventory -i inventory/aws_ec2.yaml --graph
 This should display all EC2 instances grouped by tags and individual instance names.
 
 <img width="516" height="613" alt="image" src="https://github.com/user-attachments/assets/31d03aaf-40d3-47f9-9511-1ae09d6faaaa" />
-
----
 
 ---
 
