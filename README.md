@@ -13,6 +13,8 @@ Imagine managing 500+ VMs in a company where you need to regularly report node m
 3. Consolidate the data into a nicely formatted HTML report
 4. Send the report automatically via email
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/8893aa7a-2358-4a08-8e37-a26f8588e8b8" />
+
 ---
 
 ## Architecture
