@@ -1,0 +1,2 @@
+- import_playbook: playbooks/collect_metrics.yaml
+- import_playbook: playbooks/send_report.yaml
